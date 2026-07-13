@@ -3,7 +3,7 @@ module github.com/0TrustCloud/secure_ssh
 go 1.25.0
 
 require (
-	github.com/0TrustCloud/secure_network v1.1.4
+	github.com/0TrustCloud/secure_network v1.1.5
 	github.com/0TrustCloud/secure_policy v1.0.6
 	github.com/creack/pty v1.1.24
 	golang.org/x/term v0.44.0
